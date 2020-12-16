@@ -1,7 +1,3 @@
-#pip install wikipedia
-#pip install wolframalpha --> answer engine usually used for mathematical calculation 
-#pip install -U wxPython --> to setup GUI
-
 '''
 python code to access Wolframalpha
 (register and get AppID)
